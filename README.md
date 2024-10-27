@@ -2,11 +2,18 @@
 
 # Hi there! 👋 I'm [Your Name]
 
-<!-- Social Media Links -->
 ## Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yourusername)
+
+<a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
+</a>
+<a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"/>
+</a>
+
 
 <!-- Languages and Tools Section -->
 ## Languages and Tools:
