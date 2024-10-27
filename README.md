@@ -37,13 +37,13 @@
         <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Framework" width="40" height="40"/>
     </a>
     <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Hibernate" width="40" height="40"/>
+        <img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate" width="40" height="40"/>
+    </a>
+    <a href="https://spring.io/projects/spring-data-jpa" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/database.png" alt="JPA" width="40" height="40"/>
     </a>
     <a href="https://spring.io/projects/spring-security" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/lock.png" alt="Spring Security" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
