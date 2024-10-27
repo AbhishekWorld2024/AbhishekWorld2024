@@ -79,15 +79,15 @@
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" height="40"/>
     </a>
-    <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/scrumorg/scrumorg-icon.svg" alt="Scrum" width="40" height="40"/>
-</a>
-<a href="https://www.scaledagileframework.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/agilemanifesto/agilemanifesto-icon.svg" alt="Agile Methodologies" width="40" height="40"/>
-</a>
-<a href="https://www.cognizant.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Cognizant's_logo.png" alt="Cognizant" width="40" height="40"/>
-</a>
+   <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/images/scrum.png" alt="Scrum" width="40" height="40"/>
+    </a>
+    <a href="https://www.scaledagileframework.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/images/agile-methodologies.png" alt="Agile Methodologies" width="40" height="40"/>
+    </a>
+    <a href="https://www.cognizant.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/images/cognizant.png" alt="Cognizant" width="40" height="40"/>
+    </a>
 
 </p>
 
