@@ -68,7 +68,7 @@
         <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
     </a>
   <a href="https://www.cognizant.com" target="_blank" rel="noreferrer">Cognizant</a>
- </a>
+
 
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" width="40" height="40"/>
