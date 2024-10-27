@@ -4,15 +4,18 @@
 
 ## Connect with me:
 
+## Connect with me:
+
 <a href="https://twitter.com/yourusername" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
 </a>
-<a href="https://linkedin.com/in/yourusername" target="_blank">
+<a href="https://www.linkedin.com/in/abhishek-arugonda-bb611a1b2/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
 </a>
-<a href="https://instagram.com/yourusername" target="_blank">
+<a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"/>
 </a>
+
 
 
 <!-- Languages and Tools Section -->
