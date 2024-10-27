@@ -16,7 +16,6 @@
 </a>
 
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -38,7 +37,10 @@
         <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Framework" width="40" height="40"/>
     </a>
     <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Hibernate/JPA" width="40" height="40"/>
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Hibernate" width="40" height="40"/>
+    </a>
+    <a href="https://spring.io/projects/spring-security" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/spring-security.png" alt="Spring Security" width="40" height="40"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
@@ -74,6 +76,9 @@
         <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" height="40"/>
     </a>
 </p>
+
+
+
 
 
 
