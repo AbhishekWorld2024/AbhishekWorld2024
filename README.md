@@ -1,12 +1,11 @@
 **# Abhishek_Arugonda**
 
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Abhishek Arugonda
+
 
 ## Connect with me:
 
-## Connect with me:
-
-<a href="https://twitter.com/yourusername" target="_blank">
+<a href=["https://twitter.com/yourusername"](https://x.com/home) target="_blank">
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
 </a>
 <a href="https://www.linkedin.com/in/abhishek-arugonda-bb611a1b2/" target="_blank">
