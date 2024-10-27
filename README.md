@@ -88,6 +88,21 @@
     <a href="https://www.cognizant.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/images/cognizant.png" alt="Cognizant" width="40" height="40"/>
     </a>
+    ## GitHub Stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=default" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<h3>Top Languages and Frameworks:</h3>
+<p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Core%20Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Core Java"/>
+    <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework"/>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/Spring%20JPA-007396?style=for-the-badge&logo=hibernate&logoColor=white" alt="Spring JPA"/>
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+</p>
 
 </p>
 <h3>Top Languages and Frameworks:</h3>
