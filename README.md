@@ -67,9 +67,9 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
     </a>
-  <a href="https://www.cognizant.com" target="_blank" rel="noreferrer">Cognizant</a>
-
-
+    <a href="https://www.cognizant.com" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/cognizant.png" alt="Cognizant" width="40" height="40"/>
+    </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" width="40" height="40"/>
     </a>
@@ -80,7 +80,6 @@
         <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" height="40"/>
     </a>
 </p>
-
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats
