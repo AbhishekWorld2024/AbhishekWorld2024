@@ -46,12 +46,6 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
     </a>
-    <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/scrumorg/scrumorg-icon.svg" alt="Scrum" width="40" height="40"/>
-    </a>
-    <a href="https://www.scaledagileframework.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/scrumorg/scrumorg-icon.svg" alt="Agile Methodologies" width="40" height="40"/>
-    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
     </a>
@@ -67,8 +61,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
     </a>
-    <a href="https://www.cognizant.com" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/cognizant.png" alt="Cognizant" width="40" height="40"/>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" width="40" height="40"/>
     </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" width="40" height="40"/>
@@ -79,20 +73,10 @@
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" height="40"/>
     </a>
-   <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/images/scrum.png" alt="Scrum" width="40" height="40"/>
-    </a>
-    <a href="https://www.scaledagileframework.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/images/agile-methodologies.png" alt="Agile Methodologies" width="40" height="40"/>
-    </a>
-    <a href="https://www.cognizant.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/images/cognizant.png" alt="Cognizant" width="40" height="40"/>
-    </a>
-    ## GitHub Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=default" alt="Top Langs" />
-    <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
+
+
+
 
 <h3>Top Languages and Frameworks:</h3>
 <p>
@@ -105,15 +89,7 @@
 </p>
 
 </p>
-<h3>Top Languages and Frameworks:</h3>
-<p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Core%20Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Core Java"/>
-    <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework"/>
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-    <img src="https://img.shields.io/badge/Spring%20JPA-007396?style=for-the-badge&logo=hibernate&logoColor=white" alt="Spring JPA"/>
-    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-</p>
+
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats
