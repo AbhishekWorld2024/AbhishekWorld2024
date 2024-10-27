@@ -67,7 +67,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
     </a>
-   <a href="https://www.cognizant.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cognizant/cognizant-icon.svg" alt="cognizant" width="40" height="40"/> </a>
+  <a href="https://www.cognizant.com" target="_blank" rel="noreferrer">Cognizant</a>
+ </a>
 
     </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
