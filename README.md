@@ -3,7 +3,7 @@
 # Hi there! 👋 I'm Abhishek Arugonda
 
 <h1>Hi 👋, I'm Abhishek Arugonda</h1>
-<p>Profile views: <span style="font-weight: bold;">325</span></p>
+
 
 <!-- Rest of your HTML -->
 
