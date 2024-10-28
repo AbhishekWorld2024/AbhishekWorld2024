@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Abhishek Arugonda
 
-<h1>Hi 👋, I'm Abhishek Arugonda</h1>
+
 
 
 <!-- Rest of your HTML -->
