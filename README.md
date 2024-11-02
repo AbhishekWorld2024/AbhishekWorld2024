@@ -10,14 +10,15 @@
 
 ## Connect with me:
 
-<a href="https://x.com/home" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" style="display: inline-block;"/>
-</a>
+
 <a href="https://www.linkedin.com/in/abhishek-arugonda-bb611a1b2/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="display: inline-block;"/>
 </a>
 <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" style="display: inline-block;"/>
+</a>
+<a href="https://x.com/home" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" style="display: inline-block;"/>
 </a>
 
 
