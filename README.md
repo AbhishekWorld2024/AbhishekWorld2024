@@ -107,7 +107,6 @@
 <h2>Work Experience</h2>
 <h3>Programmer Analyst</h3>
 <h3>Cognizant Technology Solutions</h3>                                                                         <h3>  (July 2021- July2023)</h3>
-
 ->Designed and implemented scalable backend systems using Spring Boot.
  Developed and optimized microservices architectures, integrated RESTful APIs, and
 implemented Spring Security for authentication and authorization.<br>
@@ -125,7 +124,6 @@ control strategies for version controlling and collaboration<br><br>
 
 <h2>Internship</h2><br>
 <h3>Cognizant Technology Solutions</h3>   <h3>(Feb 2021 - June 2021)</h3>
-
 -> Study business requirements and technical specifications to understand product
 requirements and evaluate features of the application Identify, analyze, and troubleshoot<br>
 software issues, file detailed and easy to reproduce bug reports, monitor their status until
@@ -158,8 +156,7 @@ scripts, analyzing the results ofscripts, interaction with developers in fixing 
  results via Wi-Fi, with bounding box coordinates visible on a hosted 
  web page and the serial monitor."<br>
 
- 
-<h3>DIFFERENTIAL PRIVACY ON HEALTHCARE</h3><br>
+ <h3>DIFFERENTIAL PRIVACY ON HEALTHCARE</h3><br>
 ->In this project, we presented a comprehensive framework that integrates state-of-the-art
 privacy-preserving techniques, addressing the critical privacy concern in healthcare data.<br>
 ->The main goal of our project is to strengthen the confidentiality of individual records by
