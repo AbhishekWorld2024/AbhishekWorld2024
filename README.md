@@ -132,7 +132,7 @@
  The goal was to create a lightweight and efficient system that could detect objects within the
  ESP32-S3's resource constraints.<br>
 <h4>Implementation</h4><br>
-<h3>Dataset and Training:</h3>h3><br>
+<h3>Dataset and Training:</h3><br>
 "We used a dataset of approximately 2.2k images and labels, splitting it into training, testing, and validation subsets. The YOLOv5n model was trained with parameters like a 320x320 image size, 
  50 epochs, and a batch size of 16, achieving precise results."<br>
 <h4>Optimization:</h4><br>
