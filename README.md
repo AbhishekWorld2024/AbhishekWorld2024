@@ -107,37 +107,24 @@
 <h2>Work Experience</h2>
 <h3>Programmer Analyst</h3>
 <h3>Cognizant Technology Solutions</h3>                                                                         <h3>  (July 2021- July2023)</h3>
-->Designed and implemented scalable backend systems using Spring Boot.
- Developed and optimized microservices architectures, integrated RESTful APIs, and
-implemented Spring Security for authentication and authorization.<br>
--> Leveraged Hibernate and Spring Data JPA to manage large datasets efficiently, reducing
-query execution time.<br>
--> Used Spring Annotations to simplify the business logic for creating Spring MVC RESTful
-web services.<br>
--> Collaborated with cross-functional teams to ensure seamless deployment and integration of
-software solutions.<br>
--> Followed Agile (Scrum) methodology for project development. Involved in Sprint planning,
-estimation of tasks for User Stories, daily scrum meetings, and end of the sprint demos and
-sprint retrospective.<br>
--> Responsible for design and maintenance of the Git and GitHub repositories and the access
-control strategies for version controlling and collaboration<br><br>
+-> Designed and implemented scalable backend systems using Spring Boot, ensuring high availability for payment processing applications.<br>
+-> Developed and optimized microservices architecture for seamless integration of CBPR+, ISO 20022 migration, SWIFT Release, and SEPA payments.<br>
+-> Implemented Spring Security for authentication and authorization in banking transactions, ensuring compliance with financial regulations.<br>
+-> Utilized Hibernate and Spring Data JPA to manage large transaction datasets, reducing query execution time and improving performance.<br>
+-> Integrated RESTful APIs with third-party payment gateways and internal banking systems to support international payment processing.<br>
+-> Ensured smooth deployment and integration of software solutions by collaborating with cross-functional teams, including payment operations and compliance teams.<br>
+-> Followed Agile (Scrum) methodology, actively participating in sprint planning, estimation, daily stand-ups, sprint demos, and retrospectives.<br>
+-> Managed and maintained Git and GitHub repositories, implementing access control strategies for secure versioning and collaboration.<br><br>
+
 
 <h2>Internship</h2><br>
 <h3>Cognizant Technology Solutions</h3>   <h3>(Feb 2021 - June 2021)</h3>
--> Study business requirements and technical specifications to understand product
-requirements and evaluate features of the application Identify, analyze, and troubleshoot<br>
-software issues, file detailed and easy to reproduce bug reports, monitor their status until
-satisfactory resolution.<br>
--> Responsible for programming, unit testing, user acceptance testing and implementation in a
-project involving payments. Modifying and developing existing programs to fix bugs and
-increase efficiency of the applications. Test plan and Test case preparation.<br>
--> Participated in the bug review meetings, Update Test Plan as per business requirement
-and change in functionality of application.<br>
--> Experience on various Methodologies and Agile-ssscrum and being part of agile team
-andworked under strict timelines for faster feedback.<br>
-->  Designed and developed Unit test cases for checking functionality of the code.<br>
--> Experience in writing Test Plans, defining Test Cases, developing and maintaining Test
-scripts, analyzing the results ofscripts, interaction with developers in fixing the errors<br><br>
+-> Analyzed and understood business requirements from Mapping Specification documents provided by Business Analysts (BAs) for payment processing and banking applications.<br>
+-> Developed functional maps in IBM WTX/ITX and integrated them with Spring Boot services, reducing mapping complexity and improving data transformation efficiency.<br>
+-> Implemented Hibernate and Spring Data JPA for database interaction, optimizing queries for large datasets related to banking transactions and financial records.<br>
+-> Created and optimized JPA repositories and custom queries to support complex payment workflows such as CBPR+, ISO 20022, SWIFT, and SEPA payments.<br>
+-> Actively participated in Agile development, attending sprint planning, daily stand-ups, sprint demos, and retrospectives to ensure smooth project execution.<br><br>
+
 
 <h2>Projects</h2><br>
 <h3>Real-time object detection using the ESP32-S3 microcontroller</h3><br>
