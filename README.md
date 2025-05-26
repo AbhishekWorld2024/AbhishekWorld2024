@@ -6,7 +6,7 @@
 
 
 <!-- Rest of your HTML -->
-
+![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
 
 ## Connect with me:
 
