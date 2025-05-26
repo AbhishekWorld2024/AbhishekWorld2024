@@ -5,8 +5,7 @@
 
 
 
-<!-- Rest of your HTML -->
-![Profile Views](https://komarev.com/ghpvc/?username=AbhishekWorld2024&color=brightgreen)
+
 
 
 ## Connect with me:
