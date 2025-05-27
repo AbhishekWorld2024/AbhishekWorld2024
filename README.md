@@ -105,7 +105,7 @@
 ## <h2>🏆 Certifications</h2>
 
 ### AWS-Certified-Solutions-Architect-Associate  
-<img src="https://github.com/AbhishekWorld2024/AbhishekWorld2024/blob/main/aws-certified-solutions-architect-associate.png?raw=true" alt="AWS Certificate" width="400"/>
+<img src="https://github.com/AbhishekWorld2024/AbhishekWorld2024/blob/main/aws-certified-solutions-architect-associate.png?raw=true" alt="AWS Certificate" width="300"/>
 
 
 <h2>Work Experience</h2>
