@@ -7,21 +7,31 @@
 
 
 
-<h2>📫 Connect with me:</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Connect With Me</title>
+</head>
+<body>
+    <h2>📫 Connect with me:</h2>
 
-<p>
-    <a href="https://www.linkedin.com/in/abhishek-arugonda-bb611a1b2/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="display: inline-block;"/>
-    </a>
-    
-    <a href="https://x.com/home" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" style="display: inline-block;"/>
-    </a>
+    <p>
+        <a href="https://www.linkedin.com/in/abhishek-arugonda-bb611a1b2/" target="_blank">
+            <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="display: inline-block;"/>
+        </a>
 
-    <a href="mailto:abhishek.arugonda223@gmail.com" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" style="display: inline-block;"/>
-    </a>
-</p>
+        <a href="https://x.com/home" target="_blank">
+            <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" style="display: inline-block;"/>
+        </a>
+
+        <a href="mailto:abhishek.arugonda223@gmail.com" target="_blank">
+            <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" style="display: inline-block;"/>
+        </a>
+    </p>
+</body>
+</html>
+
 
 
 
