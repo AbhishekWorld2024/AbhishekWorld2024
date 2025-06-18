@@ -21,69 +21,83 @@
 </a>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Framework" width="40" height="40"/>
-    </a>
-    <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/projects/spring-data-jpa" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/database.png" alt="JPA" width="40" height="40"/>
-    </a>
-    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/ios/50/000000/maven-ios.png" alt="Maven" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/projects/spring-security" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/lock.png" alt="Spring Security" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
-    </a>
-    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
-    </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-    </a>
-    <a href="https://www.github.com" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/nolan/48/github.png" alt="GitHub" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" width="40" height="40"/>
-    </a>
-    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" width="40" height="40"/>
-    </a>
-    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" height="40"/>
-    </a>
-</p>
+<<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Languages & Tools</title>
+    <style>
+        body {
+            background-color: #0d1117;
+            color: #c9d1d9;
+            font-family: Arial, sans-serif;
+        }
+        h2 {
+            color: #58a6ff;
+        }
+        table {
+            width: 80%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background-color: #161b22;
+        }
+        th, td {
+            border: 1px solid #30363d;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #21262d;
+            color: #58a6ff;
+        }
+    </style>
+</head>
+<body>
+
+<h2>🛠️ Languages & Tools</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Skills</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Programming</strong></td>
+            <td>Java, Python, C, JavaScript, Data Structures</td>
+        </tr>
+        <tr>
+            <td><strong>Frameworks & APIs</strong></td>
+            <td>Spring Boot, Hibernate, Spring Security, React, Maven</td>
+        </tr>
+        <tr>
+            <td><strong>Databases</strong></td>
+            <td>MySQL</td>
+        </tr>
+        <tr>
+            <td><strong>DevOps & CI/CD</strong></td>
+            <td>Docker, Kubernetes, Jenkins, Azure ACR</td>
+        </tr>
+        <tr>
+            <td><strong>Cloud Platforms</strong></td>
+            <td>AWS, Azure</td>
+        </tr>
+        <tr>
+            <td><strong>Testing & QA</strong></td>
+            <td>JUnit, Selenium</td>
+        </tr>
+        <tr>
+            <td><strong>Version Control</strong></td>
+            <td>Git, GitHub, Linux</td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
+
 
 
 
