@@ -21,38 +21,7 @@
 </a>
 
 
-<<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Languages & Tools</title>
-    <style>
-        body {
-            background-color: #0d1117;
-            color: #c9d1d9;
-            font-family: Arial, sans-serif;
-        }
-        h2 {
-            color: #58a6ff;
-        }
-        table {
-            width: 80%;
-            border-collapse: collapse;
-            margin: 20px 0;
-            background-color: #161b22;
-        }
-        th, td {
-            border: 1px solid #30363d;
-            padding: 10px;
-            text-align: left;
-        }
-        th {
-            background-color: #21262d;
-            color: #58a6ff;
-        }
-    </style>
-</head>
-<body>
+
 
 <h2>🛠️ Languages & Tools</h2>
 
