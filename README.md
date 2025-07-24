@@ -70,7 +70,7 @@ Jenkins.</td>
         </tr>
        <tr>
       <td><strong>Monitoring & Logging</strong></td>
-        <td>ELK Stack (Elasticsearch, Logstash, Kibana), Splunk, Datadog, Prometheus</td> 
+        <td>ELK Stack (Elasticsearch, Logstash, Kibana), Splunk,Prometheus</td> 
 </tr>
     </tbody>
 </table>
