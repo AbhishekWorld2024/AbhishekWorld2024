@@ -88,7 +88,7 @@
 
 
 <h2>Work Experience</h2>
-<h3>Software Engineer</h3>
+<h3> Associate Software Engineer</h3>
 <h3>Cognizant Technology Solutions</h3>                                                                         <h3>  (July 2021- July2023)</h3>
 -> Designed and implemented scalable backend systems using Spring Boot, ensuring high availability for payment processing applications.<br>
 -> Developed and optimized microservices architecture for seamless integration of CBPR+, ISO 20022 migration, SWIFT Release, and SEPA payments.<br>
@@ -100,9 +100,9 @@
 -> Managed and maintained Git and GitHub repositories, implementing access control strategies for secure versioning and collaboration.<br><br>
 
 
-<h2>Internship</h2><br>
-<h3>Software Engineer Trainee</h3><br>
-<h3>Cognizant Technology Solutions</h3>   <h3>(Feb 2021 - June 2021)</h3>
+
+<h3>Software Engineer </h3><br>
+<h3>Cognizant Technology Solutions</h3>   <h3>(Jan 2021 - June 2021)</h3>
 -> Analyzed and understood business requirements from Mapping Specification documents provided by Business Analysts (BAs) for payment processing and banking applications.<br>
 -> Developed functional maps in IBM WTX/ITX and integrated them with Spring Boot services, reducing mapping complexity and improving data transformation efficiency.<br>
 -> Implemented Hibernate and Spring Data JPA for database interaction, optimizing queries for large datasets related to banking transactions and financial records.<br>
