@@ -45,7 +45,7 @@
         </tr>
         <tr>
             <td><strong>Frameworks & APIs</strong></td>
-            <td>Spring Boot, Hibernate, Spring Security, React, Maven, RestAPI’s , HTML, CSS, Agile Methodologies, Scrum, Apache/Kafka ,
+            <td>Spring Boot, Hibernate, Spring Security, ReactJS, Maven, RestAPI’s , HTML, CSS, Agile Methodologies, Scrum, Apache/Kafka ,
 Jenkins.</td>
         </tr>
         <tr>
