@@ -45,11 +45,12 @@
         </tr>
         <tr>
             <td><strong>Frameworks & APIs</strong></td>
-            <td>Spring Boot, Hibernate, Spring Security, React, Maven</td>
+            <td>Spring Boot, Hibernate, Spring Security, React, Maven, RestAPI’s , HTML, CSS, Agile Methodologies, Scrum, Apache/Kafka ,
+Jenkins.</td>
         </tr>
         <tr>
             <td><strong>Databases</strong></td>
-            <td>MySQL</td>
+            <td>MySQL,Mongo DB</td>
         </tr>
         <tr>
             <td><strong>DevOps & CI/CD</strong></td>
@@ -67,6 +68,10 @@
             <td><strong>Version Control</strong></td>
             <td>Git, GitHub, Linux</td>
         </tr>
+       <tr>
+      <td><strong>Monitoring & Logging</strong></td>
+        <td>ELK Stack (Elasticsearch, Logstash, Kibana), Splunk, Datadog, Prometheus</td> 
+</tr>
     </tbody>
 </table>
 
