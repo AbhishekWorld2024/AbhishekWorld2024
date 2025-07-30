@@ -21,12 +21,12 @@
   <a href="mailto:abhishek.arugonda223@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email"/>
   </a>
-</p><br><br>
+</p><br>
 
 <!-- Coder GIF - Centered -->
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="600">
-</p>
+</p><br>
 
 
 
