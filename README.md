@@ -96,6 +96,39 @@ Jenkins.</td>
 
 
 <h2>Work Experience</h2>
+<section>
+  <h2>Software Engineer – Frontend / Full Stack</h2>
+  <p><strong>Cigna Healthcare</strong> | United States</p>
+
+  <ul>
+    <li>Contributed to the development of a large-scale enterprise healthcare platform, supporting customer engagement, benefits management, and order processing workflows used across internal healthcare operations.</li>
+    <li>Designed and developed scalable, modular, and high-performance UI components using ReactJS, JavaScript (ES6+), and Redux, following component-based architecture and reusable design patterns.</li>
+    <li>Implemented centralized state management using Redux to handle complex UI state, asynchronous data flows, and multi-step workflow orchestration while improving application performance.</li>
+    <li>Integrated frontend applications with RESTful backend services, working closely with backend engineers to ensure API contract consistency, data integrity, and fault-tolerant communication.</li>
+    <li>Applied modern frontend engineering best practices including performance optimization, code reusability, separation of concerns, and maintainable architecture, improving development efficiency and long-term scalability.</li>
+    <li>Actively participated in Agile/Scrum ceremonies, technical design discussions, sprint planning, and backlog refinement, contributing to continuous system improvements.</li>
+    <li>Collaborated cross-functionally with backend teams, QA, and product stakeholders to translate functional and business requirements into robust technical solutions.</li>
+  </ul>
+
+  <h3>Enterprise Order Scheduling &amp; Prescription Workflow (POC &amp; Production)</h3>
+  <ul>
+    <li>Led frontend development for an enterprise-grade order scheduling and prescription management module, enabling dynamic rendering of medication and prescription data.</li>
+    <li>Built responsive, data-driven UI components to display patient demographics, insurance coverage, and medication details, ensuring usability in critical healthcare workflows.</li>
+    <li>Integrated multiple real-time REST APIs to aggregate and render prescription cards, medication banners, and patient/insurance information with high accuracy.</li>
+    <li>Optimized UI performance through Redux-driven state normalization, memoization, and controlled re-rendering, improving responsiveness in data-intensive screens.</li>
+    <li>Implemented copay assistance and affordability logic within multi-step order workflows, improving order completion flow and overall user experience.</li>
+    <li>Coordinated closely with backend services to validate end-to-end data flow, error handling, and workflow execution across the order lifecycle.</li>
+  </ul>
+
+  <h3>Cloud-Based Claims &amp; Routing Platform (AWS)</h3>
+  <ul>
+    <li>Contributed to the design and implementation of a cloud-native, serverless claims routing platform, modernizing legacy processing logic using AWS Step Functions and AWS Lambda.</li>
+    <li>Implemented event-driven workflow orchestration to dynamically route requests based on runtime business flags, improving scalability and extensibility.</li>
+    <li>Developed and integrated AWS Lambda functions to support multiple processing paths with improved fault isolation and maintainability.</li>
+    <li>Utilized AWS CloudWatch and Splunk for centralized logging, monitoring, and troubleshooting of distributed workflows, ensuring observability and production stability.</li>
+  </ul>
+</section>
+
 <h3> Associate Software Engineer</h3>
 <h3>Cognizant Technology Solutions</h3>                                                                         <h3>  (July 2021- July2023)</h3>
 -> Designed and implemented scalable backend systems using Spring Boot, ensuring high availability for payment processing applications.<br>
