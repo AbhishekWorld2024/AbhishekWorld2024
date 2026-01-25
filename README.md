@@ -95,60 +95,53 @@ Jenkins.</td>
 <img src="https://github.com/AbhishekWorld2024/AbhishekWorld2024/blob/main/aws-certified-solutions-architect-associate.png?raw=true" alt="AWS Certificate" width="300"/>
 
 
-<h2>Work Experience</h2>
-<section>
-  <h2>Software Engineer – Frontend / Full Stack</h2>
-  <p><strong>Cigna Healthcare</strong> | United States</p>
+<h2>💼 Professional Experience</h2>
 
-  <ul>
-    <li>Contributed to the development of a large-scale enterprise healthcare platform, supporting customer engagement, benefits management, and order processing workflows used across internal healthcare operations.</li>
-    <li>Designed and developed scalable, modular, and high-performance UI components using ReactJS, JavaScript (ES6+), and Redux, following component-based architecture and reusable design patterns.</li>
-    <li>Implemented centralized state management using Redux to handle complex UI state, asynchronous data flows, and multi-step workflow orchestration while improving application performance.</li>
-    <li>Integrated frontend applications with RESTful backend services, working closely with backend engineers to ensure API contract consistency, data integrity, and fault-tolerant communication.</li>
-    <li>Applied modern frontend engineering best practices including performance optimization, code reusability, separation of concerns, and maintainable architecture, improving development efficiency and long-term scalability.</li>
-    <li>Actively participated in Agile/Scrum ceremonies, technical design discussions, sprint planning, and backlog refinement, contributing to continuous system improvements.</li>
-    <li>Collaborated cross-functionally with backend teams, QA, and product stakeholders to translate functional and business requirements into robust technical solutions.</li>
-  </ul>
+<h3>Software Developer <span style="font-weight: normal;">| Aug 2025 – Present</span></h3>
+<p><strong>The Cigna Group — Austin, TX</strong></p>
+<ul>
+  <li>Designed and developed a <strong>full-stack, serverless microservices platform</strong> using <strong>ReactJS and Redux</strong> for frontend UI.</li>
+  <li>Implemented and managed <strong>REST endpoint URLs</strong> directly in Cigna’s <strong>API Gateway</strong>, orchestrating backend workflows using <strong>AWS Lambda</strong> and <strong>AWS Step Functions</strong> for reliable, event-driven processing.</li>
+  <li>Built backend service integrations using <strong>Java-based APIs</strong> for response transformation and business logic execution.</li>
+  <li>Architected cloud-native data flows using <strong>DynamoDB</strong> and <strong>MongoDB</strong> for structured and unstructured data storage, enabling high-availability and low-latency data access.</li>
+  <li>Led <strong>end-to-end system design and architecture planning</strong>, defining API contracts, orchestration flows, and integration patterns across frontend, API Gateway, serverless compute, external services, and databases.</li>
+  <li>Delivered <strong>real-time, API-driven data pipelines</strong> from backend services to frontend UI, enabling dynamic rendering of patient, prescription, and insurance workflows.</li>
+</ul>
 
-  <h3>Enterprise Order Scheduling &amp; Prescription Workflow (POC &amp; Production)</h3>
-  <ul>
-    <li>Led frontend development for an enterprise-grade order scheduling and prescription management module, enabling dynamic rendering of medication and prescription data.</li>
-    <li>Built responsive, data-driven UI components to display patient demographics, insurance coverage, and medication details, ensuring usability in critical healthcare workflows.</li>
-    <li>Integrated multiple real-time REST APIs to aggregate and render prescription cards, medication banners, and patient/insurance information with high accuracy.</li>
-    <li>Optimized UI performance through Redux-driven state normalization, memoization, and controlled re-rendering, improving responsiveness in data-intensive screens.</li>
-    <li>Implemented copay assistance and affordability logic within multi-step order workflows, improving order completion flow and overall user experience.</li>
-    <li>Coordinated closely with backend services to validate end-to-end data flow, error handling, and workflow execution across the order lifecycle.</li>
-  </ul>
+<hr/>
 
-  <h3>Cloud-Based Claims &amp; Routing Platform (AWS)</h3>
-  <ul>
-    <li>Contributed to the design and implementation of a cloud-native, serverless claims routing platform, modernizing legacy processing logic using AWS Step Functions and AWS Lambda.</li>
-    <li>Implemented event-driven workflow orchestration to dynamically route requests based on runtime business flags, improving scalability and extensibility.</li>
-    <li>Developed and integrated AWS Lambda functions to support multiple processing paths with improved fault isolation and maintainability.</li>
-    <li>Utilized AWS CloudWatch and Splunk for centralized logging, monitoring, and troubleshooting of distributed workflows, ensuring observability and production stability.</li>
-  </ul>
-</section>
+<h3>IT Technician <span style="font-weight: normal;">| Aug 2023 – May 2025</span></h3>
+<p><strong>The University of Kansas — Lawrence, KS</strong></p>
+<ul>
+  <li>Resolved <strong>50+ IT support issues per week</strong>, ensuring optimal system performance and uninterrupted services for students, faculty, and staff.</li>
+  <li>Streamlined ticketing and support workflows through process optimization, achieving a resolution success rate of over <strong>90%</strong> and significantly reducing response times.</li>
+  <li>Monitored and optimized system performance using <strong>AWS CloudWatch</strong> and <strong>Splunk</strong>, enabling real-time observability, proactive issue detection, and faster incident resolution.</li>
+  <li>Improved system reliability, performance, and fault tolerance through <strong>structured error handling, retries, and workflow orchestration</strong>.</li>
+</ul>
 
-<h3> Associate Software Engineer</h3>
-<h3>Cognizant Technology Solutions</h3>                                                                         <h3>  (July 2021- July2023)</h3>
--> Designed and implemented scalable backend systems using Spring Boot, ensuring high availability for payment processing applications.<br>
--> Developed and optimized microservices architecture for seamless integration of CBPR+, ISO 20022 migration, SWIFT Release, and SEPA payments.<br>
--> Implemented Spring Security for authentication and authorization in banking transactions, ensuring compliance with financial regulations.<br>
--> Utilized Hibernate and Spring Data JPA to manage large transaction datasets, reducing query execution time and improving performance.<br>
--> Integrated RESTful APIs with third-party payment gateways and internal banking systems to support international payment processing.<br>
--> Ensured smooth deployment and integration of software solutions by collaborating with cross-functional teams, including payment operations and compliance teams.<br>
--> Followed Agile (Scrum) methodology, actively participating in sprint planning, estimation, daily stand-ups, sprint demos, and retrospectives.<br>
--> Managed and maintained Git and GitHub repositories, implementing access control strategies for secure versioning and collaboration.<br><br>
+<hr/>
 
+<h3>Software Developer <span style="font-weight: normal;">| Jul 2021 – Jun 2023</span></h3>
+<p><strong>Cognizant — Hyderabad, India</strong></p>
+<ul>
+  <li>Designed and implemented scalable backend systems using <strong>Spring Boot</strong>, ensuring high availability for payment processing applications.</li>
+  <li>Developed and optimized <strong>microservices architecture</strong> for seamless integration of <strong>CBPR+, ISO 20022 migration, SWIFT Release, and SEPA payments</strong>.</li>
+  <li>Integrated <strong>RESTful APIs</strong> with third-party payment gateways and internal banking systems to support international payment processing.</li>
+  <li>Ensured smooth deployment and integration of software solutions by collaborating with cross-functional teams, including payment operations and compliance teams.</li>
+  <li>Followed <strong>Agile (Scrum)</strong> methodology, actively participating in sprint planning, estimation, daily stand-ups, sprint demos, and retrospectives.</li>
+</ul>
 
+<hr/>
 
-<h3>Software Engineer </h3><br>
-<h3>Cognizant Technology Solutions</h3>   <h3>(Jan 2021 - June 2021)</h3>
--> Analyzed and understood business requirements from Mapping Specification documents provided by Business Analysts (BAs) for payment processing and banking applications.<br>
--> Developed functional maps in IBM WTX/ITX and integrated them with Spring Boot services, reducing mapping complexity and improving data transformation efficiency.<br>
--> Implemented Hibernate and Spring Data JPA for database interaction, optimizing queries for large datasets related to banking transactions and financial records.<br>
--> Created and optimized JPA repositories and custom queries to support complex payment workflows such as CBPR+, ISO 20022, SWIFT, and SEPA payments.<br>
--> Actively participated in Agile development, attending sprint planning, daily stand-ups, sprint demos, and retrospectives to ensure smooth project execution.<br><br>
+<h3>Software Intern <span style="font-weight: normal;">| Jan 2021 – May 2021</span></h3>
+<p><strong>Cognizant — Hyderabad, India</strong></p>
+<ul>
+  <li>Analyzed and understood business requirements from <strong>Mapping Specification documents</strong> provided by Business Analysts for payment processing and banking applications.</li>
+  <li>Developed functional maps in <strong>IBM WTX/ITX</strong> and integrated them with <strong>Spring Boot services</strong>, reducing mapping complexity and improving data transformation efficiency.</li>
+  <li>Implemented <strong>Hibernate</strong> and <strong>Spring Data JPA</strong> for database interaction, optimizing queries for large datasets related to banking transactions and financial records.</li>
+  <li>Actively participated in <strong>Agile development</strong>, attending sprint planning, daily stand-ups, sprint demos, and retrospectives to ensure smooth project execution.</li>
+</ul>
+
 
 
 <h2>Projects</h2>
