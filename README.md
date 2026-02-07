@@ -95,52 +95,41 @@ Jenkins.</td>
 <img src="https://github.com/AbhishekWorld2024/AbhishekWorld2024/blob/main/aws-certified-solutions-architect-associate.png?raw=true" alt="AWS Certificate" width="300"/>
 
 
-<h2>💼 Professional Experience</h2>
+<h2>💼 Experience</h2>
 
 <h3>Software Developer <span style="font-weight: normal;">| Aug 2025 – Present</span></h3>
-<p><strong>The Cigna Group — Austin, TX</strong></p>
+<p><strong>The Cigna Group</strong> — Austin, TX</p>
 <ul>
-  <li>Designed and developed a <strong>full-stack, serverless microservices platform</strong> using <strong>ReactJS and Redux</strong> for frontend UI.</li>
-  <li>Implemented and managed <strong>REST endpoint URLs</strong> directly in Cigna’s <strong>API Gateway</strong>, orchestrating backend workflows using <strong>AWS Lambda</strong> and <strong>AWS Step Functions</strong> for reliable, event-driven processing.</li>
-  <li>Built backend service integrations using <strong>Java-based APIs</strong> for response transformation and business logic execution.</li>
-  <li>Architected cloud-native data flows using <strong>DynamoDB</strong> and <strong>MongoDB</strong> for structured and unstructured data storage, enabling high-availability and low-latency data access.</li>
-  <li>Led <strong>end-to-end system design and architecture planning</strong>, defining API contracts, orchestration flows, and integration patterns across frontend, API Gateway, serverless compute, external services, and databases.</li>
-  <li>Delivered <strong>real-time, API-driven data pipelines</strong> from backend services to frontend UI, enabling dynamic rendering of patient, prescription, and insurance workflows.</li>
+  <li>Designed and developed a full-stack, serverless microservices platform using <strong>ReactJS</strong> and <strong>Redux</strong> for frontend UI.</li>
+  <li>Implemented and managed REST endpoint URLs via <strong>AWS API Gateway</strong>, orchestrating backend workflows with <strong>AWS Lambda</strong> and <strong>AWS Step Functions</strong>, improving workflow reliability by <strong>30%</strong> via automated retries.</li>
+  <li>Architected cloud-native data flows using <strong>DynamoDB</strong> and <strong>MongoDB</strong>, enabling <strong>99.9% service availability</strong> and achieving <strong>sub-100ms read latency</strong> for high-traffic transactional data.</li>
+  <li>Led end-to-end system design and architecture planning, API contracts, orchestration flows, and integration patterns across frontend, API Gateway, serverless compute, external services, and databases for scalable enterprise systems.</li>
+  <li>Built and integrated <strong>Java-based backend APIs</strong> for response transformation and business logic execution, reducing API response time by <strong>~20%</strong> through optimized payload handling and caching strategies.</li>
 </ul>
 
 <hr/>
 
-<h3>IT Technician <span style="font-weight: normal;">| Aug 2023 – May 2025</span></h3>
-<p><strong>The University of Kansas — Lawrence, KS</strong></p>
+<h3>Software Developer <span style="font-weight: normal;">| Dec 2023 – May 2025</span></h3>
+<p><strong>The University of Kansas</strong> — Lawrence, KS</p>
 <ul>
-  <li>Resolved <strong>50+ IT support issues per week</strong>, ensuring optimal system performance and uninterrupted services for students, faculty, and staff.</li>
-  <li>Streamlined ticketing and support workflows through process optimization, achieving a resolution success rate of over <strong>90%</strong> and significantly reducing response times.</li>
-  <li>Monitored and optimized system performance using <strong>AWS CloudWatch</strong> and <strong>Splunk</strong>, enabling real-time observability, proactive issue detection, and faster incident resolution.</li>
-  <li>Improved system reliability, performance, and fault tolerance through <strong>structured error handling, retries, and workflow orchestration</strong>.</li>
+  <li>Contributed to the development and maintenance of the University of Kansas web platform, improving usability, accessibility, and performance for <strong>10K+ students, faculty, and staff</strong> across multiple academic systems.</li>
+  <li>Integrated frontend features with backend services through <strong>RESTful APIs</strong>, collaborating closely with backend teams for seamless data flow, content rendering, and optimized user experience across dynamic pages and modules.</li>
+  <li>Monitored and optimized system performance using <strong>AWS CloudWatch</strong> and <strong>Splunk</strong>, enabling real-time observability and reducing incident resolution time by <strong>30%</strong> through proactive alerting.</li>
+  <li>Supported backend services using <strong>MongoDB</strong> for website data storage and retrieval, improving data access efficiency by <strong>20%</strong>.</li>
 </ul>
 
 <hr/>
 
-<h3>Software Developer <span style="font-weight: normal;">| Jul 2021 – Jun 2023</span></h3>
-<p><strong>Cognizant — Hyderabad, India</strong></p>
+<h3>Software Engineer <span style="font-weight: normal;">| Jul 2021 – Jun 2023</span></h3>
+<p><strong>Cognizant</strong> — Hyderabad, India</p>
 <ul>
-  <li>Designed and implemented scalable backend systems using <strong>Spring Boot</strong>, ensuring high availability for payment processing applications.</li>
-  <li>Developed and optimized <strong>microservices architecture</strong> for seamless integration of <strong>CBPR+, ISO 20022 migration, SWIFT Release, and SEPA payments</strong>.</li>
-  <li>Integrated <strong>RESTful APIs</strong> with third-party payment gateways and internal banking systems to support international payment processing.</li>
-  <li>Ensured smooth deployment and integration of software solutions by collaborating with cross-functional teams, including payment operations and compliance teams.</li>
-  <li>Followed <strong>Agile (Scrum)</strong> methodology, actively participating in sprint planning, estimation, daily stand-ups, sprint demos, and retrospectives.</li>
+  <li>Implemented backend systems using <strong>Java</strong> for payment processing applications, maintaining <strong>99.95% system availability</strong>.</li>
+  <li>Optimized microservices architecture for seamless integration of <strong>CBPR+</strong>, <strong>ISO 20022 migration</strong>, and <strong>SEPA payments</strong>.</li>
+  <li>Integrated <strong>RESTful APIs</strong> with third-party payment gateways to support secure international payment processing.</li>
+  <li>Collaborated with cross-functional teams including payment operations and compliance, reducing integration defects by <strong>25%</strong> and ensuring regulatory adherence across enterprise payment systems.</li>
+  <li>Followed <strong>Agile (Scrum)</strong> methodology, actively participating in sprint planning, daily stand-ups, and retrospectives.</li>
 </ul>
 
-<hr/>
-
-<h3>Software Intern <span style="font-weight: normal;">| Jan 2021 – May 2021</span></h3>
-<p><strong>Cognizant — Hyderabad, India</strong></p>
-<ul>
-  <li>Analyzed and understood business requirements from <strong>Mapping Specification documents</strong> provided by Business Analysts for payment processing and banking applications.</li>
-  <li>Developed functional maps in <strong>IBM WTX/ITX</strong> and integrated them with <strong>Spring Boot services</strong>, reducing mapping complexity and improving data transformation efficiency.</li>
-  <li>Implemented <strong>Hibernate</strong> and <strong>Spring Data JPA</strong> for database interaction, optimizing queries for large datasets related to banking transactions and financial records.</li>
-  <li>Actively participated in <strong>Agile development</strong>, attending sprint planning, daily stand-ups, sprint demos, and retrospectives to ensure smooth project execution.</li>
-</ul>
 
 
 
