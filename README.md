@@ -97,37 +97,48 @@ Jenkins.</td>
 
 <h2>💼 Experience</h2>
 
-<h3>Software Developer <span style="font-weight: normal;">| Aug 2025 – Present</span></h3>
+<h3>Senior AI / ML Engineer <span style="font-weight: normal;">| Aug 2025 – Present</span></h3>
 <p><strong>The Cigna Group</strong> — Austin, TX</p>
 <ul>
-  <li>Designed and developed a full-stack, serverless microservices platform using <strong>ReactJS</strong> and <strong>Redux</strong> for frontend UI.</li>
-  <li>Implemented and managed REST endpoint URLs via <strong>AWS API Gateway</strong>, orchestrating backend workflows with <strong>AWS Lambda</strong> and <strong>AWS Step Functions</strong>, improving workflow reliability by <strong>30%</strong> via automated retries.</li>
-  <li>Architected cloud-native data flows using <strong>DynamoDB</strong> and <strong>MongoDB</strong>, enabling <strong>99.9% service availability</strong> and achieving <strong>sub-100ms read latency</strong> for high-traffic transactional data.</li>
-  <li>Led end-to-end system design and architecture planning, API contracts, orchestration flows, and integration patterns across frontend, API Gateway, serverless compute, external services, and databases for scalable enterprise systems.</li>
-  <li>Built and integrated <strong>Java-based backend APIs</strong> for response transformation and business logic execution, reducing API response time by <strong>~20%</strong> through optimized payload handling and caching strategies.</li>
+  <li>Architected an autonomous <strong>multi-agent orchestration framework</strong> using <strong>Python</strong>, <strong>LangGraph</strong>, and <strong>Claude 3.5 Sonnet</strong> to parse 15+ complex medical benefit structures, eliminating structural hallucinations (error rates from 18% → 7%) while boosting parsing accuracy to <strong>94%</strong>.</li>
+  <li>Engineered a dual-stage <strong>hybrid retrieval topology</strong> combining sparse keyword search, dense vector retrieval (<strong>Pinecone, FAISS</strong>), and Cross-Encoder reranking over <strong>25TB+</strong> of healthcare records — cutting p99 semantic search latency by <strong>60%</strong> (3.2s → 1.3s) at <strong>92% retrieval precision</strong>.</li>
+  <li>Built asynchronous <strong>FastAPI</strong> microservices backed by <strong>PostgreSQL</strong> read-replicas and <strong>Redis</strong> semantic caching, sustaining high-concurrency throughput up to <strong>800 req/min</strong> peak parallel load.</li>
+  <li>Implemented dynamic token reduction heuristics and intelligent <strong>model routing</strong> across high-volume inference calls, driving a <strong>35%</strong> net monthly cost reduction in commercial LLM usage.</li>
+  <li>Deployed resilient, containerized <strong>ML pipelines on Kubernetes</strong> using <strong>Terraform</strong> IaC, enforcing <strong>99.9%</strong> uptime SLAs while maintaining <strong>85%+</strong> Pytest test coverage and automated <strong>RAGAS/BERTScore</strong> evaluation gates in Jenkins CI/CD.</li>
 </ul>
 
 <hr/>
 
-<h3>Software Developer <span style="font-weight: normal;">| Dec 2023 – May 2025</span></h3>
+<h3>Senior AI / ML Engineer <span style="font-weight: normal;">| Jun 2024 – May 2025</span></h3>
+<p><strong>U.S. Bank</strong> — USA</p>
+<ul>
+  <li>Engineered a <strong>multi-model orchestration engine</strong> using <strong>Python</strong>, <strong>LangChain</strong>, <strong>GPT-4</strong>, and <strong>Claude Sonnet</strong> to automate regulatory compliance verification across millions of records, raising classification accuracy to <strong>95%+</strong>.</li>
+  <li>Constructed a low-latency <strong>hybrid RAG</strong> topology combining <strong>FAISS</strong>, <strong>Pinecone</strong>, and sparse keyword search, dropping average query response latency from <strong>3.2s → 1.3s</strong> while elevating retrieval precision.</li>
+  <li>Integrated distributed messaging fabrics via <strong>Apache Kafka</strong> and FastAPI microservices to interface core banking data warehouses with streaming AI pipelines under sub-second latency constraints.</li>
+  <li>Built dual-tier content safety guardrails leveraging <strong>Azure Content Safety</strong> APIs and downstream <strong>PyTorch</strong> classifiers, mitigating false-positive security alerts by <strong>40%</strong> while enforcing zero-trust RBAC controls.</li>
+  <li>Established real-time model telemetry and data drift tracking via <strong>MLflow</strong> and <strong>Weights & Biases</strong>, and scaled serverless feature pipelines on <strong>AWS Lambda, S3, and SageMaker</strong>, reducing cloud overhead by <strong>30%</strong>.</li>
+</ul>
+
+<hr/>
+
+<h3>AI / ML Engineer <span style="font-weight: normal;">| Dec 2023 – Jun 2024</span></h3>
 <p><strong>The University of Kansas</strong> — Lawrence, KS</p>
 <ul>
-  <li>Contributed to the development and maintenance of the University of Kansas web platform, improving usability, accessibility, and performance for <strong>10K+ students, faculty, and staff</strong> across multiple academic systems.</li>
-  <li>Integrated frontend features with backend services through <strong>RESTful APIs</strong>, collaborating closely with backend teams for seamless data flow, content rendering, and optimized user experience across dynamic pages and modules.</li>
-  <li>Monitored and optimized system performance using <strong>AWS CloudWatch</strong> and <strong>Splunk</strong>, enabling real-time observability and reducing incident resolution time by <strong>30%</strong> through proactive alerting.</li>
-  <li>Supported backend services using <strong>MongoDB</strong> for website data storage and retrieval, improving data access efficiency by <strong>20%</strong>.</li>
+  <li>Designed high-throughput <strong>NLP ingestion pipelines</strong> using <strong>Python</strong>, <strong>Pandas</strong>, <strong>NumPy</strong>, and <strong>Sentence-Transformers</strong> to clean, tokenize, and process <strong>350K+</strong> unstructured research papers, boosting throughput by <strong>55%</strong>.</li>
+  <li>Engineered a <strong>hybrid retrieval engine</strong> fusing dense vector representations with <strong>BM25</strong> sparse keyword scores, dropping query noise by <strong>42%</strong> and elevating retrieval precision from <strong>68% → 87%</strong>.</li>
+  <li>Developed dynamic context window compression and chunking routines to eliminate memory overhead spikes, accelerating tokenization throughput during deep document indexing.</li>
+  <li>Architected serverless execution pipelines on <strong>AWS Lambda</strong> and <strong>S3</strong> while standardizing containerized testbeds via <strong>Docker</strong> and <strong>Pytest</strong>, reducing compute overhead by <strong>30%</strong>.</li>
 </ul>
 
 <hr/>
 
-<h3>Software Engineer <span style="font-weight: normal;">| Jul 2021 – Jun 2023</span></h3>
+<h3>Software Engineer / ML Engineer <span style="font-weight: normal;">| Jul 2021 – Jul 2023</span></h3>
 <p><strong>Cognizant</strong> — Hyderabad, India</p>
 <ul>
-  <li>Implemented backend systems using <strong>Java</strong> for payment processing applications, maintaining <strong>99.95% system availability</strong>.</li>
-  <li>Optimized microservices architecture for seamless integration of <strong>CBPR+</strong>, <strong>ISO 20022 migration</strong>, and <strong>SEPA payments</strong>.</li>
-  <li>Integrated <strong>RESTful APIs</strong> with third-party payment gateways to support secure international payment processing.</li>
-  <li>Collaborated with cross-functional teams including payment operations and compliance, reducing integration defects by <strong>25%</strong> and ensuring regulatory adherence across enterprise payment systems.</li>
-  <li>Followed <strong>Agile (Scrum)</strong> methodology, actively participating in sprint planning, daily stand-ups, and retrospectives.</li>
+  <li>Developed custom <strong>BERT</strong> and <strong>RoBERTa</strong> Transformer configurations for domain-specific <strong>Named Entity Recognition (NER)</strong>, realizing an <strong>89% F1-score</strong> across specialized document parsing workflows.</li>
+  <li>Architected distributed big-data extraction pipelines using <strong>Apache Spark</strong> and <strong>Databricks</strong>, processing <strong>1.2TB+</strong> of unstructured data daily for a <strong>3x</strong> throughput boost.</li>
+  <li>Built high-volume <strong>text classification</strong> microservices in <strong>Python</strong> and <strong>FastAPI</strong> to evaluate <strong>3M+</strong> financial files (KYC, loans) monthly at a <strong>91%</strong> categorization accuracy rate.</li>
+  <li>Engineered containerized deployment pipelines using <strong>Docker</strong>, <strong>Jenkins CI/CD</strong>, and optimized <strong>PostgreSQL</strong> indexing, cutting release timelines from 2 days down to 4 hours.</li>
 </ul>
 
 
