@@ -43,38 +43,29 @@
     </thead>
     <tbody>
         <tr>
-            <td><strong>Programming</strong></td>
-            <td>Java, Python, C, JavaScript, Data Structures</td>
+            <td><strong>AI Architecture & Agents</strong></td>
+            <td>Multi-Agent Orchestration, LangChain, LangGraph, Advanced RAG, Fine-Tuning (LoRA, QLoRA, PEFT), Semantic Caching, RAGAS, BERTScore</td>
         </tr>
         <tr>
-            <td><strong>Frameworks & APIs</strong></td>
-            <td>Spring Boot, Hibernate, Spring Security, ReactJS, Maven, RestAPI’s , HTML, CSS, Agile Methodologies, Scrum, Apache/Kafka ,
-Jenkins.</td>
+            <td><strong>ML & Frameworks</strong></td>
+            <td>PyTorch, TensorFlow, Transformers, BERT, RoBERTa, Sentence-Transformers, NER, Text Classification, Scikit-Learn</td>
         </tr>
         <tr>
-            <td><strong>Databases</strong></td>
-            <td>MySQL,Mongo DB</td>
+            <td><strong>Backend & APIs</strong></td>
+            <td>Python, FastAPI, Asynchronous Streaming, REST APIs, Microservices, OAuth 2.0, JWT, RBAC, Real-Time PII Masking</td>
         </tr>
         <tr>
-            <td><strong>DevOps & CI/CD</strong></td>
-            <td>Docker, Kubernetes, Jenkins, Azure ACR</td>
+            <td><strong>Databases & Search</strong></td>
+            <td>PostgreSQL, Redis, FAISS, Pinecone, Weaviate, Apache Kafka, Hybrid Search, Cross-Encoder Reranking</td>
         </tr>
         <tr>
-            <td><strong>Cloud Platforms</strong></td>
-            <td>AWS, Azure</td>
-        </tr>
-        <tr>
-            <td><strong>Testing & QA</strong></td>
-            <td>JUnit, Selenium</td>
+            <td><strong>Cloud & MLOps</strong></td>
+            <td>AWS (SageMaker, Bedrock, Lambda, S3), Azure OpenAI, GCP Vertex AI, Docker, Kubernetes, Terraform, MLflow, Jenkins CI/CD, Databricks, Spark</td>
         </tr>
         <tr>
             <td><strong>Version Control</strong></td>
             <td>Git, GitHub, Linux</td>
         </tr>
-       <tr>
-      <td><strong>Monitoring & Logging</strong></td>
-        <td>ELK Stack (Elasticsearch, Logstash, Kibana), Splunk,Prometheus</td> 
-</tr>
     </tbody>
 </table>
 
@@ -144,38 +135,21 @@ Jenkins.</td>
 
 
 
-<h2>Projects</h2>
-<h3>Real-time object detection using the ESP32-S3 microcontroller</h3>
-<p>Our project focuses on real-time object detection using the ESP32-S3 microcontroller. The goal was to create a lightweight and efficient system that could detect objects within the ESP32-S3's resource constraints.</p>
+<h2>🚀 Projects</h2>
 
-<h4>Implementation</h4>
-<h4>Dataset and Training:</h4>
-<p>We used a dataset of approximately 2.2k images and labels, splitting it into training, testing, and validation subsets. The YOLOv5n model was trained with parameters like a 320x320 image size, 50 epochs, and a batch size of 16, achieving precise results.</p>
+<h3>HealthGuard AI — Real-Time Healthcare Monitoring & Compliance Platform</h3>
+<ul>
+  <li>Developed <strong>Java Spring Boot</strong> microservices and AI-powered rule engines to monitor healthcare workflows, improving compliance event detection accuracy and reducing manual review efforts by <strong>30%</strong>.</li>
+  <li>Architected scalable cloud-native solutions using <strong>AWS Lambda</strong>, <strong>SQS</strong>, <strong>DynamoDB</strong>, and <strong>API Gateway</strong>, supporting high-volume healthcare transactions with high availability and fault tolerance.</li>
+  <li>Built <strong>ReactJS</strong> dashboards and implemented LLM-powered knowledge retrieval using <strong>RAG</strong> techniques, improving operational visibility and accelerating access to healthcare policies and documentation.</li>
+</ul>
 
-<h4>Optimization:</h4>
-<p>We pruned 20% of the model weights to reduce size and fine-tuned it for optimal performance. The optimized model was converted to TensorFlow Lite format and further quantized to uint8 format to improve compatibility with the ESP32-S3.</p>
-
-<h4>Deployment:</h4>
-<p>The uint8 TFLite model was integrated into the ESP32-S3. We wrote source files for camera setup, inference handling, and bounding box visualization. The system streamed live detection results via Wi-Fi, with bounding box coordinates visible on a hosted web page and the serial monitor.</p>
-
-
- <h3>DIFFERENTIAL PRIVACY ON HEALTHCARE</h3><br>
-->In this project, we presented a comprehensive framework that integrates state-of-the-art
-privacy-preserving techniques, addressing the critical privacy concern in healthcare data.<br>
-->The main goal of our project is to strengthen the confidentiality of individual records by
-implementing differential privacy, a paradigm that is widely acknowledged. The Laplace
-mechanism is utilized to incorporate precisely calibrated noise into numeric columns in the database, like
-'Age,' 'Billing Amount,' and 'Room Number,' maintaining data integrity while augmenting
-privacy.<br>
-->Data masking is incorporated to anonymize columns, like 'Medical
-Condition' and 'Name,' by restricting their representation to a specific maximum length.<br>
-->Applying hashing to tokenization, specific columns such as 'Hospital,' 'Insurance Provider,' and
-'Medication' are protected against security breaches.<br>
-->To give users concrete control over the degree of privacy they desire to
-preserve, the project presents the idea of a privacy budget (ε) as a parameter. <br>
--> This comprehensive method yields a refined healthcare dataset, establishing the groundwork for
-responsible data handling and adding to the ongoing conversation about privacy in the
-healthcare industry.<br>
+<h3>InsightCampus — AI-Powered Academic Analytics & Reporting Platform</h3>
+<ul>
+  <li>Developed a full-stack academic analytics platform using <strong>Java Spring Boot</strong>, <strong>ReactJS</strong>, and <strong>PostgreSQL</strong> to streamline reporting and provide actionable insights for students, faculty, and administrators.</li>
+  <li>Engineered <strong>Python</strong> and <strong>Apache Airflow</strong> ETL pipelines to consolidate data from multiple university systems, reducing report preparation time by over <strong>60%</strong> and improving data accuracy.</li>
+  <li>Integrated LLM-powered search and <strong>RAG</strong>-based knowledge retrieval, enabling users to quickly access academic resources, policies, and institutional information through a unified interface.</li>
+</ul>
 
 
 
