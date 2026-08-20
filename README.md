@@ -1,11 +1,6 @@
-
-
 # Hi there! 👋 I'm Abhishek Arugonda
 
-
-
-
-
+### Data Engineer — Java & Teradata
 
 <h2>📫 Connect with me:</h2>
 
@@ -28,9 +23,9 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  alt="Coder GIF" width="600">
 </p><br>
 
+## 👨‍💻 About Me
 
-
-
+Data Engineer with 5+ years of experience at the intersection of **application engineering and data engineering**, combining strong hands-on **Java** development with **Teradata**-based data modeling, schema design, and advanced SQL optimization across healthcare and banking environments. I translate complex business rules into scalable Java application logic that consumes and processes large, high-volume transactional and customer data sets — and I'm just as comfortable designing dimensional/normalized data models as I am writing the services that run on top of them.
 
 <h2>🛠️ Languages & Tools</h2>
 
@@ -43,24 +38,24 @@
     </thead>
     <tbody>
         <tr>
-            <td><strong>AI Architecture & Agents</strong></td>
-            <td>Multi-Agent Orchestration, LangChain, LangGraph, Advanced RAG, Fine-Tuning (LoRA, QLoRA, PEFT), Semantic Caching, RAGAS, BERTScore</td>
+            <td><strong>Languages & Application Layer</strong></td>
+            <td>Java (primary), Spring Boot, Python, REST APIs, Microservices, OAuth 2.0, JWT, RBAC</td>
         </tr>
         <tr>
-            <td><strong>ML & Frameworks</strong></td>
-            <td>PyTorch, TensorFlow, Transformers, BERT, RoBERTa, Sentence-Transformers, NER, Text Classification, Scikit-Learn</td>
+            <td><strong>Data Platform & SQL</strong></td>
+            <td>Teradata, Advanced SQL, Query Optimization & Performance Tuning, PostgreSQL, High-Volume Transactional Data</td>
         </tr>
         <tr>
-            <td><strong>Backend & APIs</strong></td>
-            <td>Python, FastAPI, Asynchronous Streaming, REST APIs, Microservices, OAuth 2.0, JWT, RBAC, Real-Time PII Masking</td>
+            <td><strong>Data Modeling & Engineering</strong></td>
+            <td>Dimensional & Normalized Data Modeling, Schema Design, ETL/ELT, Data Validation & Quality Controls, Databricks, Apache Spark, Apache Kafka</td>
         </tr>
         <tr>
-            <td><strong>Databases & Search</strong></td>
-            <td>PostgreSQL, Redis, FAISS, Pinecone, Weaviate, Apache Kafka, Hybrid Search, Cross-Encoder Reranking</td>
+            <td><strong>Cloud & DevOps</strong></td>
+            <td>AWS (Lambda, S3, SageMaker), Azure (Blob Storage, Functions), GCP Vertex AI, Docker, Kubernetes, Terraform, Jenkins CI/CD, MLflow</td>
         </tr>
         <tr>
-            <td><strong>Cloud & MLOps</strong></td>
-            <td>AWS (SageMaker, Bedrock, Lambda, S3), Azure OpenAI, GCP Vertex AI, Docker, Kubernetes, Terraform, MLflow, Jenkins CI/CD, Databricks, Spark</td>
+            <td><strong>Reliability & Operations</strong></td>
+            <td>Production Support, Monitoring & Observability, Fault Tolerance, Data Governance, Performance Optimization</td>
         </tr>
         <tr>
             <td><strong>Version Control</strong></td>
@@ -69,88 +64,70 @@
     </tbody>
 </table>
 
-</body>
-</html>
+## 🏆 Certifications
 
-
-
-
-
-
-
-
-
-## <h2>🏆 Certifications</h2>
-
-### AWS-Certified-Solutions-Architect-Associate  
+### AWS Certified Solutions Architect – Associate
 <img src="https://github.com/AbhishekWorld2024/AbhishekWorld2024/blob/main/aws-certified-solutions-architect-associate.png?raw=true" alt="AWS Certificate" width="300"/>
-
 
 <h2>💼 Experience</h2>
 
-<h3>Senior AI / ML Engineer <span style="font-weight: normal;">| Aug 2025 – Present</span></h3>
+<h3>Senior Data Engineer (Java / Teradata) <span style="font-weight: normal;">| Aug 2025 – Present</span></h3>
 <p><strong>The Cigna Group</strong> — Austin, TX</p>
 <ul>
-  <li>Architected an autonomous <strong>multi-agent orchestration framework</strong> using <strong>Python</strong>, <strong>LangGraph</strong>, and <strong>Claude 3.5 Sonnet</strong> to parse 15+ complex medical benefit structures, eliminating structural hallucinations (error rates from 18% → 7%) while boosting parsing accuracy to <strong>94%</strong>.</li>
-  <li>Engineered a dual-stage <strong>hybrid retrieval topology</strong> combining sparse keyword search, dense vector retrieval (<strong>Pinecone, FAISS</strong>), and Cross-Encoder reranking over <strong>25TB+</strong> of healthcare records — cutting p99 semantic search latency by <strong>60%</strong> (3.2s → 1.3s) at <strong>92% retrieval precision</strong>.</li>
-  <li>Built asynchronous <strong>FastAPI</strong> microservices backed by <strong>PostgreSQL</strong> read-replicas and <strong>Redis</strong> semantic caching, sustaining high-concurrency throughput up to <strong>800 req/min</strong> peak parallel load.</li>
-  <li>Implemented dynamic token reduction heuristics and intelligent <strong>model routing</strong> across high-volume inference calls, driving a <strong>35%</strong> net monthly cost reduction in commercial LLM usage.</li>
-  <li>Deployed resilient, containerized <strong>ML pipelines on Kubernetes</strong> using <strong>Terraform</strong> IaC, enforcing <strong>99.9%</strong> uptime SLAs while maintaining <strong>85%+</strong> Pytest test coverage and automated <strong>RAGAS/BERTScore</strong> evaluation gates in Jenkins CI/CD.</li>
+  <li>Developed and maintained <strong>Java</strong>-based application logic to process and operationalize data retrieved from <strong>Teradata</strong>, translating complex healthcare benefit business rules into scalable, production-grade services.</li>
+  <li>Designed and maintained <strong>Teradata</strong> data models and schemas — including dimensional and normalized structures — supporting high-volume transactional healthcare data used across 15+ downstream applications.</li>
+  <li>Wrote and optimized advanced <strong>SQL</strong> against large Teradata datasets, contributing to a <strong>60%</strong> reduction in p99 query/retrieval latency (3.2s → 1.3s) while sustaining <strong>92%</strong> data precision.</li>
+  <li>Built asynchronous <strong>Java / FastAPI</strong> microservices backed by <strong>PostgreSQL</strong> read-replicas and <strong>Redis</strong> caching, sustaining throughput of <strong>800 req/min</strong> under peak load.</li>
+  <li>Implemented data validation and quality-control checks within the application layer, reducing extraction failure rates by <strong>23%</strong>.</li>
+  <li>Deployed containerized <strong>Java</strong> services on <strong>Kubernetes</strong> using <strong>Terraform</strong> IaC, sustaining <strong>99.9%</strong> production uptime SLAs with <strong>85%+</strong> automated test coverage.</li>
 </ul>
 
 <hr/>
 
-<h3>Senior AI / ML Engineer <span style="font-weight: normal;">| Jun 2024 – May 2025</span></h3>
+<h3>Senior Data Engineer (Java / Teradata) <span style="font-weight: normal;">| Jun 2024 – May 2025</span></h3>
 <p><strong>U.S. Bank</strong> — USA</p>
 <ul>
-  <li>Engineered a <strong>multi-model orchestration engine</strong> using <strong>Python</strong>, <strong>LangChain</strong>, <strong>GPT-4</strong>, and <strong>Claude Sonnet</strong> to automate regulatory compliance verification across millions of records, raising classification accuracy to <strong>95%+</strong>.</li>
-  <li>Constructed a low-latency <strong>hybrid RAG</strong> topology combining <strong>FAISS</strong>, <strong>Pinecone</strong>, and sparse keyword search, dropping average query response latency from <strong>3.2s → 1.3s</strong> while elevating retrieval precision.</li>
-  <li>Integrated distributed messaging fabrics via <strong>Apache Kafka</strong> and FastAPI microservices to interface core banking data warehouses with streaming AI pipelines under sub-second latency constraints.</li>
-  <li>Built dual-tier content safety guardrails leveraging <strong>Azure Content Safety</strong> APIs and downstream <strong>PyTorch</strong> classifiers, mitigating false-positive security alerts by <strong>40%</strong> while enforcing zero-trust RBAC controls.</li>
-  <li>Established real-time model telemetry and data drift tracking via <strong>MLflow</strong> and <strong>Weights & Biases</strong>, and scaled serverless feature pipelines on <strong>AWS Lambda, S3, and SageMaker</strong>, reducing cloud overhead by <strong>30%</strong>.</li>
+  <li>Engineered <strong>Java</strong> application logic and <strong>Spring Boot</strong> API Gateway services to implement regulatory compliance business rules against data sourced from <strong>Teradata</strong>, raising classification accuracy to <strong>95%+</strong> across millions of records.</li>
+  <li>Designed <strong>Teradata</strong> data models and schemas for high-volume banking transactional data, and optimized advanced <strong>SQL</strong> queries that reduced average response latency from <strong>3.2s → 1.3s</strong>.</li>
+  <li>Integrated <strong>Apache Kafka</strong> messaging with Java microservices to stream core banking data warehouse feeds into downstream systems under sub-second latency constraints.</li>
+  <li>Built dual-tier data quality and validation guardrails, reducing false-positive alerts by <strong>40%</strong> while enforcing zero-trust RBAC controls on data access.</li>
+  <li>Established real-time application and data-pipeline telemetry via <strong>MLflow</strong> and <strong>Weights & Biases</strong>, and scaled serverless pipelines on <strong>AWS Lambda, S3, and SageMaker</strong>, reducing cloud overhead by <strong>30%</strong>.</li>
 </ul>
 
 <hr/>
 
-<h3>AI / ML Engineer <span style="font-weight: normal;">| Dec 2023 – Jun 2024</span></h3>
+<h3>Data Engineer (Java / Teradata) <span style="font-weight: normal;">| Dec 2023 – Jun 2024</span></h3>
 <p><strong>The University of Kansas</strong> — Lawrence, KS</p>
 <ul>
-  <li>Designed high-throughput <strong>NLP ingestion pipelines</strong> using <strong>Python</strong>, <strong>Pandas</strong>, <strong>NumPy</strong>, and <strong>Sentence-Transformers</strong> to clean, tokenize, and process <strong>350K+</strong> unstructured research papers, boosting throughput by <strong>55%</strong>.</li>
-  <li>Engineered a <strong>hybrid retrieval engine</strong> fusing dense vector representations with <strong>BM25</strong> sparse keyword scores, dropping query noise by <strong>42%</strong> and elevating retrieval precision from <strong>68% → 87%</strong>.</li>
-  <li>Developed dynamic context window compression and chunking routines to eliminate memory overhead spikes, accelerating tokenization throughput during deep document indexing.</li>
-  <li>Architected serverless execution pipelines on <strong>AWS Lambda</strong> and <strong>S3</strong> while standardizing containerized testbeds via <strong>Docker</strong> and <strong>Pytest</strong>, reducing compute overhead by <strong>30%</strong>.</li>
+  <li>Designed <strong>Teradata</strong>-based data models and schemas to support high-throughput ingestion pipelines processing <strong>350K+</strong> unstructured research records, boosting pipeline throughput by <strong>55%</strong>.</li>
+  <li>Wrote and tuned advanced <strong>SQL</strong> against large Teradata datasets as part of a hybrid retrieval pipeline, cutting query noise by <strong>42%</strong> and raising retrieval precision from <strong>68% → 87%</strong>.</li>
+  <li>Developed <strong>Java</strong>- and <strong>Python</strong>-based data-chunking and compression routines to eliminate memory overhead spikes during large-scale document indexing.</li>
+  <li>Architected serverless pipelines on <strong>AWS Lambda</strong> and <strong>S3</strong> and standardized containerized test environments via <strong>Docker</strong> and <strong>Pytest</strong>, cutting compute overhead by <strong>30%</strong>.</li>
 </ul>
 
 <hr/>
 
-<h3>Software Engineer / ML Engineer <span style="font-weight: normal;">| Jul 2021 – Jul 2023</span></h3>
+<h3>Java / Data Engineer <span style="font-weight: normal;">| Jul 2021 – Jul 2023</span></h3>
 <p><strong>Cognizant</strong> — Hyderabad, India</p>
 <ul>
-  <li>Developed custom <strong>BERT</strong> and <strong>RoBERTa</strong> Transformer configurations for domain-specific <strong>Named Entity Recognition (NER)</strong>, realizing an <strong>89% F1-score</strong> across specialized document parsing workflows.</li>
-  <li>Architected distributed big-data extraction pipelines using <strong>Apache Spark</strong> and <strong>Databricks</strong>, processing <strong>1.2TB+</strong> of unstructured data daily for a <strong>3x</strong> throughput boost.</li>
-  <li>Built high-volume <strong>text classification</strong> microservices in <strong>Python</strong> and <strong>FastAPI</strong> to evaluate <strong>3M+</strong> financial files (KYC, loans) monthly at a <strong>91%</strong> categorization accuracy rate.</li>
-  <li>Engineered containerized deployment pipelines using <strong>Docker</strong>, <strong>Jenkins CI/CD</strong>, and optimized <strong>PostgreSQL</strong> indexing, cutting release timelines from 2 days down to 4 hours.</li>
+  <li>Developed <strong>Java</strong>-based data classification microservices to evaluate <strong>3M+</strong> financial records (KYC, loans) monthly at <strong>91%</strong> categorization accuracy.</li>
+  <li>Architected distributed big-data extraction and transformation pipelines using <strong>Apache Spark</strong> and <strong>Databricks</strong>, processing <strong>1.2TB+</strong> of unstructured data daily for a <strong>3x</strong> throughput boost.</li>
+  <li>Engineered containerized <strong>Java</strong> service deployments using <strong>Docker</strong>, <strong>Jenkins CI/CD</strong>, and optimized <strong>PostgreSQL</strong> indexing, cutting release timelines from 2 days down to 4 hours.</li>
+  <li>Developed custom <strong>BERT</strong> and <strong>RoBERTa</strong> NER pipelines for domain-specific document data extraction, achieving an <strong>89% F1-score</strong> across commercial document processing workflows.</li>
 </ul>
-
-
-
 
 <h2>🚀 Projects</h2>
 
 <h3>HealthGuard AI — Real-Time Healthcare Monitoring & Compliance Platform</h3>
 <ul>
-  <li>Developed <strong>Java Spring Boot</strong> microservices and AI-powered rule engines to monitor healthcare workflows, improving compliance event detection accuracy and reducing manual review efforts by <strong>30%</strong>.</li>
-  <li>Architected scalable cloud-native solutions using <strong>AWS Lambda</strong>, <strong>SQS</strong>, <strong>DynamoDB</strong>, and <strong>API Gateway</strong>, supporting high-volume healthcare transactions with high availability and fault tolerance.</li>
-  <li>Built <strong>ReactJS</strong> dashboards and implemented LLM-powered knowledge retrieval using <strong>RAG</strong> techniques, improving operational visibility and accelerating access to healthcare policies and documentation.</li>
+  <li>Built <strong>Java Spring Boot</strong> microservices and rule-based processing engines to monitor healthcare data workflows, improving compliance event detection and cutting manual review effort by <strong>30%</strong>.</li>
+  <li>Architected scalable cloud-native infrastructure using <strong>AWS Lambda</strong>, <strong>SQS</strong>, <strong>DynamoDB</strong>, and <strong>API Gateway</strong> to support high-volume healthcare transactions with high availability.</li>
+  <li>Built <strong>ReactJS</strong> dashboards on top of Java-backed data services, improving operational visibility into healthcare policy data.</li>
 </ul>
 
 <h3>InsightCampus — AI-Powered Academic Analytics & Reporting Platform</h3>
 <ul>
-  <li>Developed a full-stack academic analytics platform using <strong>Java Spring Boot</strong>, <strong>ReactJS</strong>, and <strong>PostgreSQL</strong> to streamline reporting and provide actionable insights for students, faculty, and administrators.</li>
-  <li>Engineered <strong>Python</strong> and <strong>Apache Airflow</strong> ETL pipelines to consolidate data from multiple university systems, reducing report preparation time by over <strong>60%</strong> and improving data accuracy.</li>
-  <li>Integrated LLM-powered search and <strong>RAG</strong>-based knowledge retrieval, enabling users to quickly access academic resources, policies, and institutional information through a unified interface.</li>
+  <li>Built a full-stack data analytics platform using <strong>Java Spring Boot</strong>, <strong>ReactJS</strong>, and <strong>PostgreSQL</strong> to streamline reporting for students, faculty, and administrators.</li>
+  <li>Engineered <strong>Java</strong> and <strong>Python</strong> ETL pipelines via <strong>Apache Airflow</strong> to consolidate data from multiple university systems, cutting report preparation time by over <strong>60%</strong>.</li>
+  <li>Designed normalized relational schemas to support multi-source institutional reporting and fast, reliable data access.</li>
 </ul>
-
-
-
-
