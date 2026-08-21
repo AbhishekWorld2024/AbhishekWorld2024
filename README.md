@@ -1,11 +1,11 @@
-# Hi there! 👋 I'm Abhishek Arugonda
+# Hi there! 👋 I'm Abhishek A
 
-### Data Engineer — Java & Teradata
+### Full-Stack Engineer | AWS Certified Solutions Architect | 4+ Years Experience
 
 <h2>📫 Connect with me:</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/abhishek-arugonda-bb611a1b2/" target="_blank">
+  <a href="https://linkedin.com/in/abhishekarugonda" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
 
@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-Data Engineer with 5+ years of experience at the intersection of **application engineering and data engineering**, combining strong hands-on **Java** development with **Teradata**-based data modeling, schema design, and advanced SQL optimization across healthcare and banking environments. I translate complex business rules into scalable Java application logic that consumes and processes large, high-volume transactional and customer data sets — and I'm just as comfortable designing dimensional/normalized data models as I am writing the services that run on top of them.
+Software Engineer with 4+ years of experience building scalable full-stack and backend systems using **Java**, **Spring Boot**, **ReactJS**, and **AWS**. Proven track record delivering high-availability microservices and serverless architectures across healthcare, education, and fintech. Experienced in distributed systems, RESTful API design, cloud-native development, and AI/ML tooling including LLMs, RAG, and MCP. AWS Certified Solutions Architect based in the Austin, Texas Metropolitan Area.
 
 <h2>🛠️ Languages & Tools</h2>
 
@@ -38,96 +38,89 @@ Data Engineer with 5+ years of experience at the intersection of **application e
     </thead>
     <tbody>
         <tr>
-            <td><strong>Languages & Application Layer</strong></td>
-            <td>Java (primary), Spring Boot, Python, REST APIs, Microservices, OAuth 2.0, JWT, RBAC</td>
+            <td><strong>Languages</strong></td>
+            <td>Java, JavaScript, TypeScript, Python, SQL</td>
         </tr>
         <tr>
-            <td><strong>Data Platform & SQL</strong></td>
-            <td>Teradata, Advanced SQL, Query Optimization & Performance Tuning, PostgreSQL, High-Volume Transactional Data</td>
+            <td><strong>Frontend</strong></td>
+            <td>ReactJS, Redux, HTML5, CSS3</td>
         </tr>
         <tr>
-            <td><strong>Data Modeling & Engineering</strong></td>
-            <td>Dimensional & Normalized Data Modeling, Schema Design, ETL/ELT, Data Validation & Quality Controls, Databricks, Apache Spark, Apache Kafka</td>
+            <td><strong>Backend & Frameworks</strong></td>
+            <td>Java, Spring Boot, Kafka, Node.js, RESTful APIs, Microservices, Event-Driven Architecture</td>
         </tr>
         <tr>
-            <td><strong>Cloud & DevOps</strong></td>
-            <td>AWS (Lambda, S3, SageMaker), Azure (Blob Storage, Functions), GCP Vertex AI, Docker, Kubernetes, Terraform, Jenkins CI/CD, MLflow</td>
+            <td><strong>Cloud (AWS)</strong></td>
+            <td>Lambda, API Gateway, Step Functions, DynamoDB, S3, CloudWatch, EC2, IAM</td>
         </tr>
         <tr>
-            <td><strong>Reliability & Operations</strong></td>
-            <td>Production Support, Monitoring & Observability, Fault Tolerance, Data Governance, Performance Optimization</td>
+            <td><strong>Databases</strong></td>
+            <td>DynamoDB, MongoDB, MySQL, PostgreSQL</td>
         </tr>
         <tr>
-            <td><strong>Version Control</strong></td>
-            <td>Git, GitHub, Linux</td>
+            <td><strong>AI/ML & LLM</strong></td>
+            <td>Large Language Models (LLM), Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Generative AI</td>
+        </tr>
+        <tr>
+            <td><strong>DevOps & Observability</strong></td>
+            <td>Docker, Kubernetes, CI/CD Pipelines, AWS CloudWatch, Splunk, ELK Stack, Git</td>
+        </tr>
+        <tr>
+            <td><strong>Architecture</strong></td>
+            <td>Distributed Systems, System Design, API Design, Cloud-Native Development</td>
+        </tr>
+        <tr>
+            <td><strong>Methodologies</strong></td>
+            <td>Agile (Scrum), TDD, Code Reviews, Sprint Planning</td>
         </tr>
     </tbody>
 </table>
 
-## 🏆 Certifications
+## 🏆 Certifications & Continuous Learning
 
-### AWS Certified Solutions Architect – Associate
-<img src="https://github.com/AbhishekWorld2024/AbhishekWorld2024/blob/main/aws-certified-solutions-architect-associate.png?raw=true" alt="AWS Certificate" width="300"/>
+- **AWS Certified Solutions Architect** – Amazon Web Services
+- **Claude Code in Action** – Anthropic
+- **Generative AI Fundamentals** – Databricks Academy
+- **Docker for Developers | Linux Command Line** – LinkedIn Learning
 
 <h2>💼 Experience</h2>
 
-<h3>Senior Data Engineer (Java / Teradata) <span style="font-weight: normal;">| Aug 2025 – Present</span></h3>
-<p><strong>The Cigna Group</strong> — Austin, TX</p>
+<h3>Software Developer <span style="font-weight: normal;">| Aug 2025 – Present</span></h3>
+<p><strong>The Cigna Group</strong> — Austin, Texas Metropolitan Area</p>
 <ul>
-  <li>Developed and maintained <strong>Java</strong>-based application logic to process and operationalize data retrieved from <strong>Teradata</strong>, translating complex healthcare benefit business rules into scalable, production-grade services.</li>
-  <li>Designed and maintained <strong>Teradata</strong> data models and schemas — including dimensional and normalized structures — supporting high-volume transactional healthcare data used across 15+ downstream applications.</li>
-  <li>Wrote and optimized advanced <strong>SQL</strong> against large Teradata datasets, contributing to a <strong>60%</strong> reduction in p99 query/retrieval latency (3.2s → 1.3s) while sustaining <strong>92%</strong> data precision.</li>
-  <li>Built asynchronous <strong>Java / FastAPI</strong> microservices backed by <strong>PostgreSQL</strong> read-replicas and <strong>Redis</strong> caching, sustaining throughput of <strong>800 req/min</strong> under peak load.</li>
-  <li>Implemented data validation and quality-control checks within the application layer, reducing extraction failure rates by <strong>23%</strong>.</li>
-  <li>Deployed containerized <strong>Java</strong> services on <strong>Kubernetes</strong> using <strong>Terraform</strong> IaC, sustaining <strong>99.9%</strong> production uptime SLAs with <strong>85%+</strong> automated test coverage.</li>
+  <li>Engineered high-throughput <strong>Java</strong> and <strong>Spring Boot</strong> microservices handling healthcare data workflows, reducing API response time by <strong>~20%</strong> through optimized payload handling, caching strategies, and connection pooling.</li>
+  <li>Built and maintained <strong>Kafka</strong>-based event-driven pipelines for real-time data streaming across distributed services, improving workflow reliability by <strong>30%</strong> via fault-tolerant message processing and automated retries.</li>
+  <li>Containerized and deployed services using <strong>Docker</strong> and <strong>Kubernetes</strong>, enabling consistent environments, zero-downtime rolling deployments, and <strong>99.9% service availability</strong> across production clusters.</li>
+  <li>Designed and optimized <strong>MongoDB</strong> schemas for high-traffic transactional data, achieving <strong>sub-100ms read latency</strong> and supporting scalable full-stack features with a <strong>ReactJS</strong> and <strong>Redux</strong> frontend.</li>
+  <li>Leveraged <strong>AWS</strong> (API Gateway, Lambda, Step Functions) as supporting infrastructure for orchestration and routing alongside core backend services.</li>
 </ul>
 
 <hr/>
 
-<h3>Senior Data Engineer (Java / Teradata) <span style="font-weight: normal;">| Jun 2024 – May 2025</span></h3>
-<p><strong>U.S. Bank</strong> — USA</p>
+<h3>Software Developer <span style="font-weight: normal;">| Dec 2023 – May 2025</span></h3>
+<p><strong>The University of Kansas</strong> — Lawrence, Kansas, United States</p>
 <ul>
-  <li>Engineered <strong>Java</strong> application logic and <strong>Spring Boot</strong> API Gateway services to implement regulatory compliance business rules against data sourced from <strong>Teradata</strong>, raising classification accuracy to <strong>95%+</strong> across millions of records.</li>
-  <li>Designed <strong>Teradata</strong> data models and schemas for high-volume banking transactional data, and optimized advanced <strong>SQL</strong> queries that reduced average response latency from <strong>3.2s → 1.3s</strong>.</li>
-  <li>Integrated <strong>Apache Kafka</strong> messaging with Java microservices to stream core banking data warehouse feeds into downstream systems under sub-second latency constraints.</li>
-  <li>Built dual-tier data quality and validation guardrails, reducing false-positive alerts by <strong>40%</strong> while enforcing zero-trust RBAC controls on data access.</li>
-  <li>Established real-time application and data-pipeline telemetry via <strong>MLflow</strong> and <strong>Weights & Biases</strong>, and scaled serverless pipelines on <strong>AWS Lambda, S3, and SageMaker</strong>, reducing cloud overhead by <strong>30%</strong>.</li>
+  <li>Developed and shipped full-stack features for the University of Kansas web platform used by <strong>10,000+ students and faculty</strong>, building responsive <strong>ReactJS</strong> components and integrating them with backend services via <strong>RESTful APIs</strong>.</li>
+  <li>Improved <strong>MongoDB</strong> query performance and data retrieval patterns, increasing backend data access efficiency by <strong>20%</strong> and reducing page load times across content-heavy academic modules.</li>
+  <li>Established observability workflows using <strong>AWS CloudWatch</strong> and <strong>Splunk</strong>, cutting incident resolution time by <strong>30%</strong> through real-time dashboards and proactive alerting.</li>
 </ul>
 
 <hr/>
 
-<h3>Data Engineer (Java / Teradata) <span style="font-weight: normal;">| Dec 2023 – Jun 2024</span></h3>
-<p><strong>The University of Kansas</strong> — Lawrence, KS</p>
+<h3>Software Engineer <span style="font-weight: normal;">| Jul 2021 – Jul 2023</span></h3>
+<p><strong>Cognizant</strong> — India</p>
 <ul>
-  <li>Designed <strong>Teradata</strong>-based data models and schemas to support high-throughput ingestion pipelines processing <strong>350K+</strong> unstructured research records, boosting pipeline throughput by <strong>55%</strong>.</li>
-  <li>Wrote and tuned advanced <strong>SQL</strong> against large Teradata datasets as part of a hybrid retrieval pipeline, cutting query noise by <strong>42%</strong> and raising retrieval precision from <strong>68% → 87%</strong>.</li>
-  <li>Developed <strong>Java</strong>- and <strong>Python</strong>-based data-chunking and compression routines to eliminate memory overhead spikes during large-scale document indexing.</li>
-  <li>Architected serverless pipelines on <strong>AWS Lambda</strong> and <strong>S3</strong> and standardized containerized test environments via <strong>Docker</strong> and <strong>Pytest</strong>, cutting compute overhead by <strong>30%</strong>.</li>
+  <li>Developed and maintained a high-availability <strong>Java</strong>-based payment processing backend, sustaining <strong>99.95% system uptime</strong> for mission-critical enterprise financial workflows.</li>
+  <li>Optimized <strong>microservices architecture</strong> to support seamless integration of international payment standards including <strong>CBPR+, ISO 20022 migration, and SEPA payments</strong>.</li>
+  <li>Integrated <strong>RESTful APIs</strong> with third-party payment gateways to enable secure, compliant international payment processing across multiple currency corridors.</li>
+  <li>Reduced integration defects by <strong>25%</strong> by collaborating with payment operations and compliance teams, ensuring regulatory adherence and robust cross-system integration quality.</li>
+  <li>Actively participated in <strong>Agile (Scrum)</strong> ceremonies including sprint planning, daily stand-ups, and retrospectives, contributing to a high-velocity delivery culture.</li>
 </ul>
 
-<hr/>
+## 🎓 Education
 
-<h3>Java / Data Engineer <span style="font-weight: normal;">| Jul 2021 – Jul 2023</span></h3>
-<p><strong>Cognizant</strong> — Hyderabad, India</p>
-<ul>
-  <li>Developed <strong>Java</strong>-based data classification microservices to evaluate <strong>3M+</strong> financial records (KYC, loans) monthly at <strong>91%</strong> categorization accuracy.</li>
-  <li>Architected distributed big-data extraction and transformation pipelines using <strong>Apache Spark</strong> and <strong>Databricks</strong>, processing <strong>1.2TB+</strong> of unstructured data daily for a <strong>3x</strong> throughput boost.</li>
-  <li>Engineered containerized <strong>Java</strong> service deployments using <strong>Docker</strong>, <strong>Jenkins CI/CD</strong>, and optimized <strong>PostgreSQL</strong> indexing, cutting release timelines from 2 days down to 4 hours.</li>
-  <li>Developed custom <strong>BERT</strong> and <strong>RoBERTa</strong> NER pipelines for domain-specific document data extraction, achieving an <strong>89% F1-score</strong> across commercial document processing workflows.</li>
-</ul>
+**The University of Kansas** — Lawrence, Kansas
+*Master of Science, Computer and Information Sciences*
 
-<h2>🚀 Projects</h2>
-
-<h3>HealthGuard AI — Real-Time Healthcare Monitoring & Compliance Platform</h3>
-<ul>
-  <li>Built <strong>Java Spring Boot</strong> microservices and rule-based processing engines to monitor healthcare data workflows, improving compliance event detection and cutting manual review effort by <strong>30%</strong>.</li>
-  <li>Architected scalable cloud-native infrastructure using <strong>AWS Lambda</strong>, <strong>SQS</strong>, <strong>DynamoDB</strong>, and <strong>API Gateway</strong> to support high-volume healthcare transactions with high availability.</li>
-  <li>Built <strong>ReactJS</strong> dashboards on top of Java-backed data services, improving operational visibility into healthcare policy data.</li>
-</ul>
-
-<h3>InsightCampus — AI-Powered Academic Analytics & Reporting Platform</h3>
-<ul>
-  <li>Built a full-stack data analytics platform using <strong>Java Spring Boot</strong>, <strong>ReactJS</strong>, and <strong>PostgreSQL</strong> to streamline reporting for students, faculty, and administrators.</li>
-  <li>Engineered <strong>Java</strong> and <strong>Python</strong> ETL pipelines via <strong>Apache Airflow</strong> to consolidate data from multiple university systems, cutting report preparation time by over <strong>60%</strong>.</li>
-  <li>Designed normalized relational schemas to support multi-source institutional reporting and fast, reliable data access.</li>
-</ul>
+**Sathyabama Institute of Science & Technology** — Chennai, India
+*Bachelor of Engineering, Electrical, Electronics and Communications Engineering*
